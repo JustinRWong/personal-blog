@@ -1,0 +1,19 @@
+{
+  "name": "personal-blog",
+  "version": "1.0.0",
+  "description": "a personaal blog",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinRWong/personal-blog.git"
+  },
+  "author": "Justin Wong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustinRWong/personal-blog/issues"
+  },
+  "homepage": "https://github.com/JustinRWong/personal-blog#readme"
+}
