@@ -27,7 +27,7 @@ import { OktaAuthModule } from '@okta/okta-angular';
     BrowserAnimationsModule,
     FormsModule,
     ReactiveFormsModule,
-    BsDatepickerModule.forRot(),
+    BsDatepickerModule.forRoot(),
     NgxTimelineModule,
     ModalModule.forRoot(),
     OktaAuthModule.initAuth({
